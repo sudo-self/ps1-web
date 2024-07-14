@@ -1,6 +1,8 @@
 ## <a href="https://ps1-web.vercel.app/">PS1 WEB</a><br>
 <img width="1440" alt="Screenshot 2024-07-13 at 11 42 31 PM" src="https://github.com/user-attachments/assets/d3b53bef-e962-4845-82e0-9897396225a9"><br>
-<img width="1440" alt="Screenshot 2024-07-14 at 12 33 52 AM" src="https://github.com/user-attachments/assets/fcc28c51-4aa3-429d-a36e-93b9c55c62ab"><br>
+<img width="1113" alt="Screenshot 2024-07-14 at 3 28 53 AM" src="https://github.com/user-attachments/assets/c6e15b38-e3c6-4678-82e4-70b7d5937a41">
+
+
 ![final](https://github.com/user-attachments/assets/b92b9a07-a155-4086-bd1a-1123dcdbf795)
 ### Links:
 1. https://archive.org/download/spider-man-2000-activision-usa-psx/Spider-Man%20%28USA%29.zip/CUE-BIN%2FSpider-Man%20%28USA%29.bin<br>
